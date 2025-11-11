@@ -1,7 +1,7 @@
 <?php
 $server= "40.160.64.65";
 $user= "hostdeprojetos_6tech";
-$password= "FV0(KqV11XvptPJx";
+$password= "iF5Km#1DDHg-yGlY";
 $dbname= "hostdeprojetos_xavierspapelaria";
 $conn = mysqli_connect($server, $user, $password, $dbname);
 ?>
